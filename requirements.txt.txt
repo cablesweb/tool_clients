@@ -1,4 +1,0 @@
-requests
-jsonlib
-pystyle
-pygments
